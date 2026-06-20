@@ -51,7 +51,7 @@ chmod +x *.sh backup/*.sh
 
 📌 默认端口汇总
 ```
-服务组件	          端口	  访问地址说明  
+服务组件	           端口	  访问地址说明  
 Nginx/Apache	        80	  http:// 服务器 IP  
 MySQL	              3306	  数据库连接端口  
 Redis	              6379	  缓存连接端口  
